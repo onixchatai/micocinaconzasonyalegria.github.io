@@ -30,4 +30,4 @@ PWA Notes
 
 Support
 -------
-- Built by your AI assistant with ♥. Adapt freely.
+- Built by wwww.onixchatai.com with ♥. Adapt freely.
