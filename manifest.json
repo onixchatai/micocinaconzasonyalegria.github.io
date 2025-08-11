@@ -1,6 +1,6 @@
 {
-  "name": "Mary's Tacos - Order Pickup",
-  "short_name": "Mary's Tacos",
+  "name": Mi Cocina - Order Pickup",
+  "short_name": "Mi Cocina",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0f0f10",
