@@ -1,4 +1,4 @@
-Mary's Tacos • PWA Mobile Ordering (Pickup Only)
+Mi Cocina • PWA Mobile Ordering (Pickup Only)
 ====================================================
 
 Quick Start
