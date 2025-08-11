@@ -4,9 +4,9 @@ const state = {
   cart: JSON.parse(localStorage.getItem('cart')||'[]'),
   taxRate: 0.0875, // adjust for your location
   business: {
-    name: "Mary's Tacos",
-    whatsapp: "+15555551234", // change to business WhatsApp
-    address: "123 Main St, Your City",
+    name: "Mi Cocina",
+    whatsapp: "+18183358825", // change to business WhatsApp
+    address: "Mason & Devonshire (across from Vons)",
     acceptsZelle: true
   }
 };
