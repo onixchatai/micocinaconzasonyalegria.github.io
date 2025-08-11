@@ -1,5 +1,5 @@
 // Simple offline cache for PWA
-const CACHE_NAME = 'marys-tacos-v1';
+const CACHE_NAME = 'Mi Cocina-v1';
 const ASSETS = [
   '/', '/index.html', '/styles.css', '/app.js', '/manifest.json',
   '/data/menu.json',
