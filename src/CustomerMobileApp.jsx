@@ -105,7 +105,7 @@ const CustomerMobileApp = () => {
   };
 
   return (
-    <div className="w-full" style={{maxWidth: 420, margin:'0 auto', background:'#f9fafb', minHeight:'100vh', position:'relative'}}>
+    <div className="w-full max-w-none mx-0 bg-gray-50 min-h-screen relative overflow-x-hidden">
       <header className="header">
         <div className="row">
           <div>
