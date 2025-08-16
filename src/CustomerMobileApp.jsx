@@ -235,7 +235,7 @@ const CustomerMobileApp = () => {
     : menuItems.filter(item => item.category === activeCategory);
 
   return (
-    <div className="w-full max-w-md mx-auto bg-gray-50 min-h-screen relative">
+    <div className="w-full max-w-none mx-0 bg-gray-50 min-h-screen relative overflow-x-hidden">
       {/* Enhanced Header */}
       <header className="bg-white shadow-lg sticky top-0 z-40 border-b border-gray-100">
         <div className="px-6 py-4">
